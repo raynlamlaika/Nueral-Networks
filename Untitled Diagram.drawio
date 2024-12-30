@@ -1,10 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="YLKZO_a49J6h5-vwQdo8">
-    <mxGraphModel dx="2138" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2369" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E1jarSOWdX0W9amP6Y0d-1" value="&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Neural Network&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=light-dark(#000000,transparent);rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=light-dark(#FFFFFF,transparent);shadow=1;" vertex="1" parent="1">
+        <mxCell id="E1jarSOWdX0W9amP6Y0d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E1jarSOWdX0W9amP6Y0d-1" target="E1jarSOWdX0W9amP6Y0d-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1jarSOWdX0W9amP6Y0d-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Neural Network&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=light-dark(#000000,transparent);rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fillColor=light-dark(#FFFFFF,transparent);shadow=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E1jarSOWdX0W9amP6Y0d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="E1jarSOWdX0W9amP6Y0d-3" target="E1jarSOWdX0W9amP6Y0d-1">
@@ -14,13 +17,22 @@
           <mxGeometry x="20" y="70" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E1jarSOWdX0W9amP6Y0d-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;components&lt;/h1&gt;&lt;p&gt;Neurons , connections, weights, baises, propagation functions, learning rate&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="250" width="180" height="120" as="geometry" />
+          <mxGeometry x="-270" y="100" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E1jarSOWdX0W9amP6Y0d-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="E1jarSOWdX0W9amP6Y0d-6" target="E1jarSOWdX0W9amP6Y0d-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E1jarSOWdX0W9amP6Y0d-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media.geeksforgeeks.org/wp-content/uploads/20241106171024318092/Artificial-Neural-Networks.webp;" vertex="1" parent="1">
-          <mxGeometry x="-583" y="80" width="340" height="170" as="geometry" />
+          <mxGeometry x="-700" y="130" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="E1jarSOWdX0W9amP6Y0d-10" value="why we need the neural network :&lt;div&gt;the neural net are way use full in word of ai and machine learning&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and the main benefit is its ability to learn complex patterns and make predictions or decisions based on large amounts of data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="210" width="253" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E1jarSOWdX0W9amP6Y0d-15" value="&lt;span style=&quot;font-size: 11px; font-weight: 700; text-wrap: nowrap;&quot;&gt;here the path through work of the NN&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E1jarSOWdX0W9amP6Y0d-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;first&lt;/h1&gt;&lt;p&gt;we do start from&amp;nbsp; in sample input (depend of our goal may we want to prediction, image processing, automation ...)&lt;/p&gt;&lt;p&gt;THE INPUT:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="300" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
